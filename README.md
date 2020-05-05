@@ -17,7 +17,10 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![IMG_20190525_082216.jpg](src)
+[Link](url) and ![](src)
+
+![GitHub Logo](/IMG_20190525_082216.jpg)
+
 ```
 
 ### Support or Contact
