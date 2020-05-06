@@ -6,5 +6,12 @@
 
 [CV](/cv2020.pdf)
 
+[/cv2020.pdf]
 
+![/cv2020.pdf]
+
+(/cv2020.pdf)
+
+
+/cv2020.pdf
 
