@@ -1,6 +1,6 @@
 ## Bienvenue sur mon site
 
-![GitHub Logo](/IMG_20190525_082216.jpg)
+![GitHub Logo](/osi-datenstrom-t.jpg)
 
 [Linkdin](https://www.linkedin.com/in/olivier-fransois-0a65361a9/)
 
