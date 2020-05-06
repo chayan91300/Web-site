@@ -5,13 +5,3 @@
 [Linkdin](https://www.linkedin.com/in/olivier-fransois-0a65361a9/)
 
 [CV](/cv2020.pdf)
-
-[/cv2020.pdf]
-
-![/cv2020.pdf]
-
-(/cv2020.pdf)
-
-
-/cv2020.pdf
-
