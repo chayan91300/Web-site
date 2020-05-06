@@ -4,4 +4,4 @@
 
 [Linkdin](https://www.linkedin.com/in/olivier-fransois-0a65361a9/)
 
-![qutre]()
+![qutre](/the-100-5-temporada-poster-octavia-red-queen.png)
