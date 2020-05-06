@@ -1,4 +1,4 @@
-## Binvenue sur mon site
+## Bienvenue sur mon site
 
 ![GitHub Logo](/IMG_20190525_082216.jpg)
 
