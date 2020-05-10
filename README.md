@@ -10,5 +10,5 @@
  [NextCloudPi](https://87.88.200.33) 
  [WordPress](http://87.88.200.33:8080) 
  [WordPressModif](http://87.88.200.33:8080/wp-admin/about.php)  
-
+ [Dokuwki](http://87.88.200.33:4444) 
  
