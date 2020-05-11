@@ -11,4 +11,4 @@
  [WordPress](http://87.88.200.33:8080) 
  [WordPressModif](http://87.88.200.33:8080/wp-admin/about.php)  
  [Dokuwki](https://87.88.200.33:4444) 
- 
+ [wordpresspc](http://192.168.1.30:8080/)
