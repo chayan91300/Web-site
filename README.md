@@ -2,7 +2,7 @@
 
 ![GitHub Logo](/osi-datenstrom-t.jpg)
 
- [Linkdin](https://www.linkedin.com/in/olivier-fransois)
+:link: [Linkdin](https://www.linkedin.com/in/olivier-fransois)
  
  [Radio Garden](http://radio.garden/listen/snoopwoof-radio/UJR1Uxe) 
  
